@@ -54,7 +54,7 @@ After training and analysis we come out with some insights that could help predi
 
 1. Best Model Recommendation would be Tuned Decision tree since it has the highest ROC AUC score compared to Logistic Regression.
 2. Customers who spend more time per day tend to churn the most, that may due to the service charging fees. Therefore I would recommend to propose affordable service bundle.
-3. Another factor which is related to churn is customer service calls. Either the customer is not satify after calling, or he cannot find people to take his case in consideration. Then I would recommend to improve customer service experience.
+3. Another factor which is related to churn is customer service calls. Either the customer is not satisfy after calling, or he cannot find people to take his case in consideration. Then I would recommend to improve customer service experience.
 
 ## Code Quality
 All code was written in Python using industry-standard libraries such as Pandas, Matplotlib, and skeatlearn . Key characteristics of the codebase include:
